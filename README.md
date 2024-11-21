@@ -14,7 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
 ### Tools & Frameworks  
-- YOLO, Roboflow, OpenCV, Scikit-learn, Unity, ReactJS  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black) ![Roboflow](https://img.shields.io/badge/Roboflow-00172C?style=for-the-badge&logo=roboflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
 ### Technical Expertise  
 - Data analytics, simulation modeling, VR application development, robotics  
