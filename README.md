@@ -4,10 +4,12 @@
 
 I'm a graduate student with a Bachelor's in Computer Science and a Master's in Industrial and Systems Engineering (in progress). My areas of interest lie in computer vision, extended-reality, machine learning, and automation, with a focus on innovative solutions that bridge technology and real-world applications.
 
+
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 
 ## 🛠️ Skills  
 ### Programming Languages  
@@ -19,7 +21,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Technical Expertise  
 - Computer Vision, Machine Learning, VR Application Development, Simulation Modeling, Data Analytics
 
-## Skills
+
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -31,7 +34,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Tools
+## Coursework
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
