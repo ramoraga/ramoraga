@@ -1,9 +1,9 @@
-# Hello, I'm Reinaldo A. Moraga
+# 👋 Hello, I'm Reinaldo A. Moraga
 <a href="https://www.linkedin.com/in/reinaldo-moraga/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I'm a graduate student with a Bachelor's in Computer Science and a Master's in Industrial and Systems Engineering (in progress). My areas of interest lie in computer vision, mixed-reality, machine learning, and automation, with a focus on innovative solutions that bridge technology and real-world applications.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
