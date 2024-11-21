@@ -10,10 +10,17 @@ I'm a graduate student with a Bachelor's in Computer Science and a Master's in I
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## 🛠️ Skills  
-- **Programming Languages:** Python, C++, Swift, Java  
-- **Tools & Frameworks:** YOLO, Roboflow, OpenCV, Scikit-learn, Unity, ReactJS  
-- **Technical Expertise:** Data analytics, simulation modeling, VR application development, robotics  
-- **Languages:** Fluent in English and Spanish  
+### Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+
+### Tools & Frameworks  
+- YOLO, Roboflow, OpenCV, Scikit-learn, Unity, ReactJS  
+
+### Technical Expertise  
+- Data analytics, simulation modeling, VR application development, robotics  
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
