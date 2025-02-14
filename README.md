@@ -34,5 +34,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Coursework
+## NIU Coursework
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+| Subject                                       | Course Repo         |
+|-----------------------------------------------|----------------------------|
+| Programming in C++                            | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Programming%20in%20C%2B%2B/CSCI%20240">CSCI 240</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
