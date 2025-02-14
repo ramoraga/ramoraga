@@ -27,12 +27,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Master's Thesis         | <a href="https://google.com">SYNGEN</a>|
+| Computer Vision-Based Robotic Assembly | <a href="https://github.com/ramoraga/VISTA">VISTA</a>|
+| Counter-Strike Match Predictor        | SOC Automation Lab|
+| Virtual Tool Display      | SOC Automation Lab|
 
 ## NIU Coursework
 This table contains coursework and projects completed as part of my computer science studies. It includes assignments, coding exercises, and larger projects.
