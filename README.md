@@ -35,13 +35,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## NIU Coursework
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
+This table contains coursework and projects completed as part of my computer science studies. It includes assignments, coding exercises, and larger projects.
 | Subject                                       | Course Repo         |
 |-----------------------------------------------|----------------------------|
 | Programming in C++                            | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Programming%20in%20C%2B%2B/CSCI%20240">CSCI 240</a>|
-<a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Programming%20in%20C%2B%2B/CSCI%20241">CSCI 241</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+|                                               | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Programming%20in%20C%2B%2B/CSCI%20241">CSCI 241</a>|
+| UNIX                                          | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/UNIX/CSCI%20330">CSCI 330</a>|
+| Databases                                     | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Databases/CSCI%20466">CSCI 466</a>|
+| iOS Mobile Programming                        | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/iOS%20Mobile%20Programming/CSCI%20321">CSCI 321</a>|
