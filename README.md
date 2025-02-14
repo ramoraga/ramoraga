@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Master's Thesis         | <a href="https://google.com">SYNGEN</a>|
+| Master's Thesis         | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
 | Computer Vision-Based Robotic Assembly | <a href="https://github.com/ramoraga/VISTA">VISTA</a>|
 | Counter-Strike Match Predictor        | SOC Automation Lab|
 | Virtual Tool Display      | SOC Automation Lab|
