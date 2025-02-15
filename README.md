@@ -23,11 +23,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
+This table showcases a collection of computer science-related projects. The projects span various domains such as artificial intelligence, machine learning, and virtual reality. Each repo provides insights into the development of each project.
+| Project                                         | Repo         |
 |-----------------------------------------------|----------------------------|
-| Master's Thesis         | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
+| Master's Thesis (WIP)         | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
 | Computer Vision-Based Robotic Assembly | <a href="https://github.com/ramoraga/VISTA">VISTA</a>|
 | Counter-Strike Match Predictor        | SOC Automation Lab|
 | Virtual Tool Display      | SOC Automation Lab|
