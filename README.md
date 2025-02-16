@@ -28,8 +28,8 @@ This table showcases a collection of computer science-related projects. The proj
 |-----------------------------------------------|----------------------------|
 | Master's Thesis (WIP)         | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
 | Computer Vision-Based Robotic Assembly | <a href="https://github.com/ramoraga/VISTA">VISTA</a>|
-| Counter-Strike Match Predictor        | SOC Automation Lab|
-| Virtual Tool Display      | SOC Automation Lab|
+| Counter-Strike Match Predictor        | <a href="https://github.com/ramoraga/Projects/tree/main/CS%20Pro%20Match%20Predictor">Match Predictor</a>|
+| Virtual Tool Display      | <a href="https://github.com/ramoraga/Projects/tree/main/Virtual%20Reality">Virtual Reality Projects</a>|
 
 ## NIU Coursework
 This table contains coursework and projects completed as part of my computer science studies. It includes assignments, coding exercises, and larger projects.
