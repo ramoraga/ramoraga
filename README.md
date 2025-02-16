@@ -5,10 +5,9 @@
 I'm a graduate student with a Bachelor's in Computer Science and a Master's in Industrial and Systems Engineering (in progress). My areas of interest lie in computer vision, extended-reality, machine learning, and automation, with a focus on innovative solutions that bridge technology and real-world applications.
 
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+## 🎯 Objective
+I am a passionate researcher and developer specializing in computer vision, machine learning, and automation. My work focuses on leveraging synthetic data to train AI models for real-world applications, bridging the gap between virtual simulations and practical implementations. Through my projects, I aim to explore innovative solutions in extended reality, object detection, and intelligent systems. I am always eager to collaborate on cutting-edge research and contribute to advancements in AI-driven technology.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 
 ## 🛠️ Skills  
