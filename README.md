@@ -23,12 +23,12 @@ I am a passionate researcher and developer specializing in computer vision, mach
 
 ## Projects
 This table showcases a collection of computer science-related projects. The projects span various domains such as artificial intelligence, machine learning, and virtual reality. Each repo provides insights into the development of each project.
-| Project                                         | Repo         |
-|-----------------------------------------------|----------------------------|
-| Master's Thesis (WIP)         | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
+| Project                                | Repo         |
+|----------------------------------------|----------------------------|
+| Master's Thesis (WIP)                  | <a href="https://github.com/ramoraga/SYNGEN">SYNGEN</a>|
 | Computer Vision-Based Robotic Assembly | <a href="https://github.com/ramoraga/VISTA">VISTA</a>|
-| Counter-Strike Match Predictor        | <a href="https://github.com/ramoraga/Projects/tree/main/CS%20Pro%20Match%20Predictor">Match Predictor</a>|
-| Virtual Tool Display      | <a href="https://github.com/ramoraga/Projects/tree/main/Virtual%20Reality">Virtual Reality Projects</a>|
+| Counter-Strike Match Predictor         | <a href="https://github.com/ramoraga/Projects/tree/main/CS%20Pro%20Match%20Predictor">Match Predictor</a>|
+| Virtual Tool Display                   | <a href="https://github.com/ramoraga/Projects/tree/main/Virtual%20Reality">Virtual Reality Projects</a>|
 
 ## NIU Coursework
 This table contains coursework and projects completed as part of my computer science studies. It includes assignments, coding exercises, and larger projects.
@@ -39,3 +39,5 @@ This table contains coursework and projects completed as part of my computer sci
 | UNIX                                          | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/UNIX/CSCI%20330">CSCI 330</a>|
 | Databases                                     | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Databases/CSCI%20466">CSCI 466</a>|
 | iOS Mobile Programming                        | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/iOS%20Mobile%20Programming/CSCI%20321">CSCI 321</a>|
+| Data Analytics (WIP)                          | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Data%20Analytics/ISYE%20570">ISYE 570</a>|
+|                                               | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Data%20Analytics/ISYE%20670">ISYE 670</a>|
