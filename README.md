@@ -39,5 +39,5 @@ This table contains coursework and projects completed as part of my computer sci
 | UNIX                                          | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/UNIX/CSCI%20330">CSCI 330</a>|
 | Databases                                     | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Databases/CSCI%20466">CSCI 466</a>|
 | iOS Mobile Programming                        | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/iOS%20Mobile%20Programming/CSCI%20321">CSCI 321</a>|
-| Data Analytics (WIP)                          | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Data%20Analytics/ISYE%20570">ISYE 570</a>|
+| Data Analytics                                | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Data%20Analytics/ISYE%20570">ISYE 570</a>|
 |                                               | <a href="https://github.com/ramoraga/NIU_Coursework/tree/main/Data%20Analytics/ISYE%20670">ISYE 670</a>|
